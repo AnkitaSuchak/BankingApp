@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.config = {
-    directConnect: true,
-    specs: ['../Tests/loginPage.js'],
+    specs: ['../Tests/managerPage.js'],
     framework: 'jasmine',
+    directConnect: true
 };
 //# sourceMappingURL=conf.js.map

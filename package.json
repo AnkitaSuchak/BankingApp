@@ -11,7 +11,10 @@
   "devDependencies": {
     "@types/jasmine": "^2.6.0",
     "jasmine": "^2.8.0",
+    "manager": "^1.0.9",
     "protractor": "^5.1.2",
+    "typescript": "^2.5.3",
+    "webdriver": "^5.0.0-rc1",
     "webdriver-manager": "^12.0.6"
   }
 }

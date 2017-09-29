@@ -7,6 +7,7 @@ var loginPage = /** @class */ (function () {
     loginPage.bankName = protractor_1.element(protractor_1.by.className('mainHeading'));
     loginPage.customerLoginButton = protractor_1.element(protractor_1.by.cssContainingText('button', 'Customer Login'));
     loginPage.managerLoginButton = protractor_1.element(protractor_1.by.cssContainingText('button', 'Bank Manager Login'));
+    loginPage.homeButton = protractor_1.element(protractor_1.by.cssContainingText('button', 'Home'));
     return loginPage;
 }());
 exports.loginPage = loginPage;

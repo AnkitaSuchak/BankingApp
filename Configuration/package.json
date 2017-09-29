@@ -1,0 +1,14 @@
+{
+  "name": "bankapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "snehamehta",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^5.1.2"
+  }
+}
